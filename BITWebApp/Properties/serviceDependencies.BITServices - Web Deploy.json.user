@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-12-25T06:21:32.1485859Z"
+    }
+  },
+  "parameters": {
+    "BITServices.resourceGroupName": {
+      "Name": "BITServices.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "AbbassResourceGroup"
+    },
+    "BITServices.subscriptionId": {
+      "Name": "BITServices.subscriptionId",
+      "Type": "subscription",
+      "Value": "cbbddd6f-86a9-4ae5-9bd1-76c9cf813afe"
+    },
+    "BITServices.resourceGroupLocation": {
+      "Name": "BITServices.resourceGroupLocation",
+      "Type": null,
+      "Value": "australiaeast"
+    },
+    "BITServices.resourceName": {
+      "Name": "BITServices.resourceName",
+      "Type": null,
+      "Value": "BITServices"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "cbbddd6f-86a9-4ae5-9bd1-76c9cf813afe"
+    }
+  }
+}

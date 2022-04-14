@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BIT-Web.config Connection String" description="BIT Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MsSqllocaldb;&#xD;&#xA;   Initial Catalog=Abbass_Alasadi_BITdb;&#xD;&#xA;   Integrated Security=True " tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Dip\ Soft\ Dev\\C\#\ Programming\\IOOP\ Major\ assingment\\BITWebApp\\BITWebApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BIT']/@connectionString" />
+  </parameter>
+</parameters>
